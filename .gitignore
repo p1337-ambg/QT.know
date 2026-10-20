@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+.env.*
+*.log
+*.mp4
+  *.mkv
+  Screen Recording*
